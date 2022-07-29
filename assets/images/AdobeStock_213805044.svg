@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="433" height="91" viewBox="0 0 433 91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f3451"/>
+      <stop offset="0.864" stop-color="#4569f6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <path id="AdobeStock_213805044" d="M0,0H433V91H0Z" fill="url(#linear-gradient)"/>
+</svg>
